@@ -1,2 +1,2 @@
 # Yet Another Repository of Schemas
-This will include some schemas, that I happen to come across. Check out [wiki](https://github.com/i4x/ooio/wiki).
+This will include some schemas, that I happen to come across.
